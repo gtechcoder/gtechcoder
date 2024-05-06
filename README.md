@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Gerald Kipngeno</h1>
 <h3 align="center">I'm a passionate software engineer with expertise in building web applications using Angular, React, Java Spring Boot, Node.js, and SQL(MSSQL,MySQL). I love crafting elegant solutions to complex problems and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.</h3>
 
-- 🔭 I’m currently working on **Ecommerce Website using Angular and Java Spring Boot**
 - Technologies & Tools
 - **Frontend:** Angular, React
 - **Backend:** Java Spring Boot, Node.js
 - **Database:** SQL (MySQL, MySQL)
-- **Other:** HTML, CSS, JavaScript,TypeScript
+- **Other:** HTML, CSS, JavaScript, TypeScript
 
-- 🌱 I'm always eager to expand my skillset and currently focusing on:
+- 🌱 I'm always eager to expand my skill set and currently focusing on:
 
 - Docker & Kubernetes
 - Microservices architecture
 - GraphQL
 Experience
 
-- Software Engineer Intern at [TheJitu Software Company Ltd] (April 2022 - July 2022)
-
-- 💬 Ask me about **Angular,React,Typescript,Node,Java Spring Boot**
+- Software Developer Intern at [TheJitu Software Company Ltd] (April 2022 - November 2022)
+- Software Developer at [AmTech Technologies Ltd] (January 2023 - October 2023)
+- Upwork Freelancer (November 2023 to current) working on various coding projects.
+- 💬 Ask me about **Angular,React,Typescript,Node,Java,Spring Boot**
 
 - 📫 How to reach me **geraldkipngenohkoech@gmail.com**
 - Feel free to reach out to me for collaboration opportunities, tech discussions, or just to say hi! 😊
